@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>raif alotibi</title>
+    <style>
+         aside{
+            width:25%;
+            padding-left: 20px;
+            margin-left: 20px;
+            float:right;
+            font-style:oblique;
+            background-color:paleturquoise;
+             }
+        footer{
+            text-align: center;
+            padding: 5px;
+            background-color:aquamarine;
+            color: yellow
+              }
+    </style>
+</head>
+<body>
+    <h1>Curriculum Vitae</h1>
+    
+    <nav class="menu">
+        <ol>
+        <li>  <a href= "#Introduction">Introduction</a> </li>
+        <li>  <a href= "#time management">time management</a> </li>
+        <li>  <a href= "#اTechnical skills">Technical skills</a></li>
+        <li>  <a href= "#اPersonal skills">اPersonal skills</a></li>    
+        <li>  <a href= "#اtraining courses">training courses</a> </li>
+            <li>  <a href= "#Table">Table</a> </li>    
+            
+    </ol>
+    </nav>
+    <article>
+        <section>
+           
+    <p>
+<title>raif alotibi</title>
+        <section>
+<body>
+<img align="right" src="RR.jpg" height="300px" width="230px"/>
+<img align="right" src="RRR.png" height="300px" width="230px"/>
+
+            </section>
+        <section>
+    <h2><a id= " Introduction"> Introduction</a></h2>                  
+
+     <p>
+      
+
+With more than 3 years of experience in implementing successful sales strategies and motivating work teams to achieve the greatest results. Distinguished experience in recruiting and developing employees to drive revenue across multiple sales organizations. Adept in designing and implementing effective sales strategies to improve market opportunities. Perfect communication with team members to foster professional and profitable relationships while maintaining trust
+
+    </section>
+    
+        <section>
+      <h1><a id= "Degree / Specialization">Degree / Specialization</a></h1>
+    <ol>
+ 
+        <li> <i> University / College</i> </li>
+       <li><ins>Umm Al Qura University</ins></li>
+    </ol>
+            </section>
+        <aside>
+    <h2>  Communication accounts </h2>
+    <ul>
+        <li>  <a href= "https://mail.google.com/mail/u/0/#inbox" target="_blank">Mail</a>  </li>
+        <li>  <a href=  "https://github.com/raifotibi">github</a></li>
+       
+    </ul>
+            </aside>
+        <section>
+        <h2><a id= "time management">time management</a></h2>
+            <br>
+  Work (32%)
+            <br>
+Family (35%)
+            <br>
+Entertainment (16%)
+            <br>
+Relaxation (17%)
+
+            </section>
+        <section>
+   <h2><a id= " Technical skills"> Technical skills</a></h2>
+        <p>
+            <br>
+Microsoft Office 90%
+            <br>
+PowerPoint 70%
+            <br>
+Microsoft Access 80%
+            <br>
+Communication skills 90%
+
+            </p>
+        </section>
+            
+             <section>
+   <h2><a id= "Personal skills"> Personal skills</a></h2>
+        <p>
+            <br>
+Communication skills 90%
+            <br>
+Team management 70%
+            <br>
+Time management 80%
+            <br>
+Solve problems 90% effectively
+
+            </p>
+        </section>
+   
+             <section>
+   <h2><a id= "training courses"> training courses</a></h2>
+        <p>
+            <br>
+        1- Vertical and cross selling skills
+            <br>
+2- Advanced selling skills
+            <br>
+3- Skills of successful selling
+            <br>
+4- Crises and recovery
+                 </p>
+        </section>
+                         <section>
+ <h2><a id= "Table"> Table</a></h2>
+            <table border="lbx">
+<tr>
+<td>1</td>
+<th>sunday</th>
+</tr>
+<tr>
+<td>2</td>
+<th>monday</th>
+</tr>
+<tr>
+<td>3</td>
+<th>tuesday</th>
+</tr>
+<tr>
+<td>4</td>
+<th>wednesday</th>
+<tr>
+<td>5</td>
+<th>thursday</th>
+</tr>
+<tr>
+<td>6</td>
+<th>friday</th>
+</tr>
+<tr>
+<td>7</td>
+<th>saturday</th>
+</tr>
+            </section>
+    </body>
+</html>
